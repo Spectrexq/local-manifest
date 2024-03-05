@@ -7,5 +7,5 @@
     <project name="Spectrexq/kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" revision="14" />
     <project name="Spectrexq/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-21" />
     <project name="helliscloser/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="gitlab" revision="14new" />
-    <project name="itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r498229b" path="prebuilts/clang/host/linux-x86/r498229b" revision="13.0" remote="github" />
+    <project name="itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r498229b" path="prebuilts/clang/host/linux-x86/r498229b" revision="13.0" remote="gitlab" />
 </manifest>

@@ -2,7 +2,7 @@
 <manifest>
     <project name="Spectrexq/device_xiaomi_davinci" path="device/xiaomi/davinci" remote="github" revision="14" />
     <project name="Spectrexq/vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" remote="github" revision="14" />
-    <project name="Spectrexq/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="14-new" />
+    <project name="Spectrexq/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="banana" />
     <project name="Spectrexq/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="github" revision="14" />
     <project name="Spectrexq/kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" revision="14" />
     <project name="Spectrexq/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-21" />

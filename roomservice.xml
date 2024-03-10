@@ -9,7 +9,6 @@
     <project name="Spectrexq/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="gh" revision="banana" />
     <project name="Spectrexq/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="gh" revision="14" />
     <project name="Spectrexq/kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="gh" revision="14" />
-    <project name="Spectrexq/android_hardware_xiaomi" path="hardware/xiaomi" remote="gh" revision="lineage-21" />
-    <project name="helliscloser/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="gl" revision="14new" />
+   <project name="helliscloser/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="gl" revision="14new" />
     <project name="itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r498229b" path="prebuilts/clang/host/linux-x86/r498229b" revision="13.0" remote="gl" />
 </manifest>
